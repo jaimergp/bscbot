@@ -1,0 +1,39 @@
+{
+    "bot": {
+        "token": "ASDDASDASDAS.ZXCZXCZXCXC.SDFSDFG",
+        "permissions": 32145
+    },
+    "cogs": [
+        {
+            "name": "roles",
+            "channel": 12345,
+            "roles": [
+                123455,
+                112324
+            ]
+        },
+        {
+            "name": "banner",
+            "guild": 1245
+        },
+        {
+            "name": "youtube",
+            "api_key": "asdasdasdasdasdasd",
+            "channel": 123312123312,
+            "channels": [
+                "aasdasdasdasdzaa",
+                "basdasdasdasdasd",
+                "casdasdasdasdsdf",
+                "asdasddasasdadsv"
+            ]
+        },
+        {
+            "name": "weather",
+            "api_key": "asdasdasdasdasdasd"
+        },
+        {
+            "name": "monitor",
+            "channel": 12312445
+        }
+    ]
+}
